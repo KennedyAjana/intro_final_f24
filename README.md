@@ -72,7 +72,7 @@ Update the website with information.
 2. In `index.html`, replace the placeholder image (`https://via.placeholder.com/150`) with your own:
 
    ```html
-   <img src="img/Kennedy.jpg" alt="Kennedy Ajana">
+   <img src="img/your-photo.jpg" alt="Your name">
    ```
 
    - Replace `your-photo.jpg` with the actual filename of your image.
